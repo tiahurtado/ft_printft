@@ -1,4 +1,4 @@
-# *Este proyecto ha sido creado como parte del currículo de 42 por <sehurtad>.*
+# *Este proyecto ha sido creado como parte del currículo de 42 por sehurtad.*
 
 # ft_printf
 
